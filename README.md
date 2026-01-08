@@ -9,16 +9,16 @@ But as it was an open-source model, open-source community did its job and made a
 
 [Github repo of whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 
-![whisper](/images/blogs/235238348-05d0f6a4-da44-4900-a1de-d0707e75b763.jpeg)
+![whisper](assets/image.png)
 
 
 
 
 ## The transcription
 
-This is the video I used as a reference, as it has subtitles, so I can cross-reference it
+This is the video I used as a reference, as it has subtitles, so I can cross-reference it:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2W5jHN1rvM?si=aihXDDBk_qa-bxD2" title="Peaky blinders accents" frameborder="0" allow="autoplay; clipboard-write; encrypted-media;" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+[![Peaky Blinders Accents](https://img.youtube.com/vi/D2W5jHN1rvM/0.jpg)](https://www.youtube.com/watch?v=D2W5jHN1rvM)
 
 
 ## Installing Whisper.cpp (Debian/Ubuntu Linux) :
